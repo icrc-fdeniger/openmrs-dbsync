@@ -28,7 +28,7 @@
         <jsonassert.version>1.5.0</jsonassert.version>
         <bouncy-gpg.version>2.0.1</bouncy-gpg.version>
         <lombok.version>1.18.8</lombok.version>
-        <hibernateVersion>5.4.21.Final</hibernateVersion>
+        <hibernateVersion>5.4.24.Final</hibernateVersion>
         <hibernateValidatorVersion>6.1.0.Final</hibernateValidatorVersion>
         <mockitoVersion>3.3.3</mockitoVersion>
         <testContainersVersion>1.15.2</testContainersVersion>
