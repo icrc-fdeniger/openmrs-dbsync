@@ -29,7 +29,7 @@
         <bouncy-gpg.version>2.0.1</bouncy-gpg.version>
         <lombok.version>1.18.8</lombok.version>
         <hibernateVersion>5.4.21.Final</hibernateVersion>
-        <hibernateValidatorVersion>6.1.0.Final</hibernateValidatorVersion>
+        <hibernateValidatorVersion>6.1.5.Final</hibernateValidatorVersion>
         <mockitoVersion>3.3.3</mockitoVersion>
         <testContainersVersion>1.15.2</testContainersVersion>
         <jsonVersion>20190722</jsonVersion>
